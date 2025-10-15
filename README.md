@@ -1,4 +1,4 @@
-# Interactive-Automobile-Sales-Dashboard-With-Recession-Period-Analytics
+# Interactive Automobile Sales Dashboard With Recession Period Analytics
 This project implements an interactive dashboard using Plotly Dash to explore automobile sales data, visualize trends, and generate yearly statistical reports.
 
 ## 📊 Overview
