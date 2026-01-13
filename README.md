@@ -13,6 +13,9 @@ The dashboard allows users to:
 
 - Select a specific year and statistic type to view dynamic graphs.
 
+## 📊 Dashboard Demo
+https://3694669d-58a7-40d3-b3ac-b4c60cdea3f1.plotly.app
+
 ## 🧩 Features
 ✅ Yearly Report Statistics
 ### When a year and statistic are selected:
